@@ -1,6 +1,5 @@
 # tool-shutdown
-<b>Tool Tắt Máy Làm Bằng Con Trăn<br>
-Note: Méo dành cho Mac và Linux nha =))</b><br>
+<b>Tool Tắt Máy Windows Làm Bằng Python<br>
 Kênh Youtube: https://www.youtube.com/channel/UCYl4-jjbobDXhiLj-HQuKqw <br>
-Facebook tôi: https://www.facebook.com/minkalexvina <br>
-Gia nhập group Dân IT tại đây: https://www.facebook.com/groups/803129063825326/ <br>
+Facebook tôi: https://www.facebook.com/nhatanhpico <br>
+Instagram: https://www.instagram.com/nhatanhpico <br>
